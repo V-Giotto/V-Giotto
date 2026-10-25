@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**V-Giotto/V-Giotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋，我是 V-Giotto
 
-Here are some ideas to get you started:
+🎓 计算机科学与技术专业在读  
+💻 关注 AI 技术、软件工程与开源生态  
+🚀 喜欢探索新技术，也喜欢把想法变成真正能用的产品
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 关于我
+
+你好！我是一名正在不断学习和探索的计算机专业学生。
+
+目前主要关注 **AI技术**，也对 AI Agent、LLM 及相关前沿技术保持浓厚兴趣。
+
+我希望不只是了解新技术，更能通过实际项目理解它们，并尝试解决真实问题。
+
+- 🔭 **正在开发：** CFAW News —— 面向 AI 开发者的技术情报系统
+- 🌱 **正在学习：** AI 工程实践、全栈开发、软件架构
+- 🧠 **持续关注：** LLM、AI Agent、信息检索与 AI 前沿研究
+- 🤝 **期待交流：** 黑客松、开源项目、技术交流与合作
+- ⚡ **个人目标：** 持续学习，认真做项目，积累有价值的作品
+
+## 🚀 我的项目
+
+### 📰 [CFAW News](https://github.com/V-Giotto/cfaw-news)
+
+> 面向 AI 开发者的个人技术情报系统
+
+希望从大量 AI 新闻、研究论文与开源项目中，
+发现真正值得关注的技术进展，并通过分层情报简报，
+帮助开发者更高效地了解 AI 技术生态。
+
+**项目状态：** 🚧 持续开发中
+
+更多项目正在探索和实践中……
+
+## 🌱 近期探索
+
+- 持续完善 CFAW News
+- 参与黑客松，与其他开发者合作构建有趣的产品
+- 学习和实践 AI 应用开发
+- 关注优秀开源项目，尝试参与社区贡献
+
+## 🤝 交流与合作
+
+欢迎对 AI、软件开发、开源项目感兴趣的朋友交流！
+
+如果你也喜欢探索新技术、构建有趣的产品，
+或者正在寻找黑客松队友，欢迎联系我。
+
+---
+
+⭐ **保持好奇，持续学习，用代码把想法变成现实。**
